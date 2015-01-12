@@ -1,1 +1,4 @@
 Repository of my arduino sketches.  Pretty bare at the moment.
+
+blink.ino    Blink the LED
+blinkspeed.ino Blink the LED at a rate controlled by a potentiometer

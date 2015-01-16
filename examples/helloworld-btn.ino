@@ -30,7 +30,7 @@ void loop() {
     }
     else {
       // if the current state is LOW then the button
-      // wend from on to off:
+      // went from on to off:
       lcd.setCursor(0, 1);
       lcd.print(millis()/1000);
     }
